@@ -1,0 +1,7 @@
+LIBRARY veseh.dll
+EXPORTS
+        _SEH_epilog
+        _SEH_prolog
+	_except_handler3
+	_local_unwind2
+
